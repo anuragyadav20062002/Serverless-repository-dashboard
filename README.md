@@ -17,8 +17,3 @@ Built using event driven serverless tech, the application can be cloned down, co
 - Run as standalone app or Embed on your project's site
 
 
-## Webhook Listner Working
-
-<img align="left" src=.\Webhook-Listner.jpg>
-
----
