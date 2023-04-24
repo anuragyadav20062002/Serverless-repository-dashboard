@@ -1,0 +1,27 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+node_modules
+.serverless
+
+# testing
+coverage
+
+# production
+build
+
+# dev stage secrets
+config.dev.json
+
+# prod stage secrets
+config.prod.json
+
+
+# misc
+.DS_Store
+.env
+npm-debug.log
+dev-serverless.yml
+.idea
+
+/frontend/src/custom.config.js
