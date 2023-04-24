@@ -19,6 +19,6 @@ Built using event driven serverless tech, the application can be cloned down, co
 
 ## Webhook Listner Working
 
-<img align="left" src=.\Webhook-Listner.jpg></img>
+<img align="left" src=Webhook-Listner.jpg></img>
 
 ---
