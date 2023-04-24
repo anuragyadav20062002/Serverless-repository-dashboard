@@ -10,7 +10,6 @@ Built using event driven serverless tech, the application can be cloned down, co
 
 ## Features
 
-<img align="right" width="391" height="218" src="https://cloud.githubusercontent.com/assets/532272/22727459/cad63336-ed8d-11e6-8924-fce36f239a84.gif">
 
 - Customize the labels/columns to fit your project
 - Customizable styles 💁
@@ -20,6 +19,6 @@ Built using event driven serverless tech, the application can be cloned down, co
 
 ## Webhook Listner Working
 
-<img align="left" src="./Webhook-Listner.jpg">
+<img align="left" src=.\Webhook-Listner.jpg>
 
 ---
