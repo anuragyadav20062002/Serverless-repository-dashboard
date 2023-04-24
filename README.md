@@ -12,7 +12,7 @@ Built using event driven serverless tech, the application can be cloned down, co
 
 
 - Customize the labels/columns to fit your project
-- Customizable styles 💁
+- Customizable styles 
 - Driven by push based Github webhooks
 - Run as standalone app or Embed on your project's site
 
